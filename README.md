@@ -10,12 +10,12 @@ SteamGroupRewardsFramework is a dead-simple, FOSS framework for granting users o
 
 [Source on GitHub](https://github.com/bookhorsesoftware/SteamGroupRewardsFramework) | [Trello](https://trello.com/b/tIDu8ShH/steam-group-rewards-framework)
 
-### <img src="https://eeti.me/assets/logo.png" height="50px" alt="eeti.me"></img>
+### <img src="https://eeti.me/assets/logo.png" height="50px" alt="eeti.me">
 A simple, free, private, file hosting Web site.
 
 [Source on GitHub](https://github.com/bookhorsesoftware/eeti.me) | [Web site](https://eeti.me)
 
-### <img src="https://github.com/BookHorseSoftware/Coolbooru/raw/master/coolbooru.png" height="50px" alt="Coolbooru"></img>
+### <img src="https://github.com/BookHorseSoftware/Coolbooru/raw/master/coolbooru.png" height="50px" alt="Coolbooru">
 A 20% cooler Derpibooru API client in C#/.NET.
 
 [Source on GitHub](https://github.com/bookhorsesoftware/coolbooru)
