@@ -1,4 +1,4 @@
-# [Book Horse Software](https://bookhorse.us/)
+# [Book Horse Software](http://bookhorse.us/)
 Book Horse is Best Horse.
 
 [GitHub](https://github.com/bookhorsesoftware) | [Trello](https://trello.com/bookhorsesoftware)
