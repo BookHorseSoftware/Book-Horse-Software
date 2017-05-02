@@ -6,7 +6,7 @@ Book Horse is Best Horse.
 ## Projects
 
 ### SteamGroupRewardsFramework
-SteamGroupRewardsFramework is a dead-simple, FOSS framework for granting users on your Garry's Mod server rewards for joining your Steam group. It allows for recurring or one-time rewards, and is as simple as writing callback functions. It couldn't get easier and more powerful.
+A super-simple framework for granting users rewards for joining your Steam group.
 
 [Source on GitHub](https://github.com/bookhorsesoftware/SteamGroupRewardsFramework) | [Trello](https://trello.com/b/tIDu8ShH/steam-group-rewards-framework)
 
